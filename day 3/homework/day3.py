@@ -1,0 +1,6 @@
+print("nana")
+print("eleonora")
+print("cezari")
+print("gvanca")
+print("lukasi")
+print("erekle")
