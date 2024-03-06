@@ -6,6 +6,6 @@ while authorized != True:
 
     if user_login == password:
         print("Access Granted")
-        authorized == True
+        authorized = True
     else:
         print("try Again!!")
