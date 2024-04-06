@@ -1,4 +1,3 @@
-salary = 50000
-role = Analyst
-age -> 29
-print(salary)
+academy_name = "GOAL Oriented Academy"
+message = "is very best in the world"
+print(academy_name, message )
