@@ -1,2 +1,5 @@
-book = "Harry Potter"
-author = "J. K. Rowling"
+def grow(arr):
+  acumulador=1
+  for i in arr:
+      acumulador*=i
+  return acumulador
