@@ -5,4 +5,3 @@ elif "answer" == "kai biwi":
         print("dazmakaceba")
 else:
        print("cema")
-
